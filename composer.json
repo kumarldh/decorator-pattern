@@ -1,0 +1,10 @@
+{
+    "name": "PizzaExample",
+    "description": "Example of decorator pattern.",
+    "autoload": {
+        "psr-4": {
+            "Pizza\\": "src/Pizza",
+            "Toppings\\": "src/Toppings"
+        }
+    }
+}

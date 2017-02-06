@@ -1,0 +1,1 @@
+Just an example of [decorator pattern](https://en.wikipedia.org/wiki/Decorator_pattern). Do a `composer install` to use. 
